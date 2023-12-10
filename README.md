@@ -1,6 +1,5 @@
 ### Hi there 👋
-My name is Franco Tomassich and I am a full stack developer
-
+My name is Franco Tomassich and I am a full stack developer. I’m currently working on full stack projects with the following backend tools: React, NodeJS, Express, PostgreSQL and Sequelize. In Frontend I'm working with React, Redux, CSS.
 <!--
 **FTomassich/FTomassich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
