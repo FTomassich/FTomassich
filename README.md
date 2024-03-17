@@ -1,16 +1,12 @@
+<div class="tech-icons">
+  <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" alt="React Icon" width="50" height="50">
+  <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="Redux Icon" width="50" height="50">
+   <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="Node Icon" width="50" height="50">
+  <!-- Agrega más imágenes SVG según sea necesario -->
+</div>
+
 ### Hi there 👋
-My name is Franco Tomassich and I am a full stack developer. I’m currently working on full stack projects with the following backend tools: React, NodeJS, Express, PostgreSQL and Sequelize. In Frontend I'm working with React, Redux, CSS.
-<!--
-**FTomassich/FTomassich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h3>My name is Franco Tomassich and I am a full stack developer</h3>
+</div>
+<div> I’m currently working on full stack projects with the following backend tools: React, NodeJS, Express, PostgreSQL and Sequelize. In Frontend I'm working with React, Redux, CSS.</div>
