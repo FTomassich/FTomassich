@@ -1,11 +1,15 @@
 <div class="tech-icons">
   
+ 
   <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="Postgre Icon" width="25" height="25">
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React Icon" width="25" height="25">
   <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="Redux Icon" width="25" height="25">
    <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="Node Icon" width="25" height="25">
      <img src="https://www.svgrepo.com/show/354333/sequelize.svg" alt="Node Icon" width="25" height="25">
       <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="Node Icon" width="25" height="25">
+       <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Node Icon" width="22" height="25">
+        <img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" alt="Postgre Icon" width="25" height="25">
+      
     
   
   <!-- Agrega más imágenes SVG según sea necesario -->
