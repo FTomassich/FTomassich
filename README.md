@@ -1,7 +1,9 @@
 <div class="tech-icons">
-  <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" alt="React Icon" width="50" height="50">
-  <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="Redux Icon" width="50" height="50">
-   <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="Node Icon" width="50" height="50">
+  
+  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="Postgre Icon" width="30" height="30">
+  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React Icon" width="30" height="30">
+  <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="Redux Icon" width="30" height="30">
+   <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="Node Icon" width="30" height="30">
   <!-- Agrega más imágenes SVG según sea necesario -->
 </div>
 
