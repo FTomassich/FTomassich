@@ -26,8 +26,10 @@
 <hr></hr>
 <table style="width: 100%; margin-top: 20px;">
   <tr>
-    <td style="vertical-align: middle;">Connect with me</td>
-    <td style="vertical-align: middle;"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn Icon" width="35" height="35"></td>
+    <td style="vertical-align: middle;"> <a href="www.linkedin.com/in/franco-tomassich-227446271" target="_blank">Connect with me</a></td>
+    <td style="vertical-align: middle;">
+      <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn Icon" width="35" height="35">
+    </td>
   </tr>
 </table>
 
