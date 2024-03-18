@@ -13,8 +13,9 @@
 <hr></hr>
 <div>
   <h3>
-    📌Franco Tomassich/ Full stack developer💻
-  </h3>
+    📌Franco Tomassich</h3> 
+   <h4/> 💻Full stack developer
+  </h4>
   <h4> 
     📊My focus is to plan and execute effective strategies in response to the real needs of the technology and communication world🌍
   </h4>
