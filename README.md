@@ -17,8 +17,26 @@
 
 ### Hi there 👋
 <div>
-  <h3>📌My name is Franco Tomassich and I am a full stack developer💻</h3>
-  <h4> 📊My focus is to plan and execute effective strategies in response to the real needs of the technology and communication world🌍</h4>
+  <h3>
+    📌My name is Franco Tomassich and I am a full stack developer💻
+  </h3>
+  <h4> 
+    📊My focus is to plan and execute effective strategies in response to the real needs of the technology and communication world🌍
+  </h4>
 </div>
-<div> I’m currently working on full stack projects with the following backend tools: React, NodeJS, Express, PostgreSQL and Sequelize. In Frontend I'm working with React, Redux, CSS.
+<div> 
+  I’m currently working on full stack projects with the following backend tools: React, NodeJS, Express, PostgreSQL and Sequelize. In Frontend I'm working with React, Redux, CSS.
 </div>
+
+ <div style="display:flex; align-items: center;"> Connect with me -->
+   <img 
+     src="https://www.svgrepo.com/show/448234/linkedin.svg" 
+     alt="Postgre Icon" 
+     width="35" 
+     height="35"
+     style= "display: flex; align-items:center",
+     >
+ </div>
+
+
+
