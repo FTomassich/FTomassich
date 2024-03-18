@@ -10,5 +10,7 @@
 ### Hi there 👋
 <div>
   <h3>My name is Franco Tomassich and I am a full stack developer</h3>
+  <h4> My commitment is to plan and execute effective strategies in response to the real needs of the technology and communication world.</h4>
 </div>
-<div> I’m currently working on full stack projects with the following backend tools: React, NodeJS, Express, PostgreSQL and Sequelize. In Frontend I'm working with React, Redux, CSS.</div>
+<div> I’m currently working on full stack projects with the following backend tools: React, NodeJS, Express, PostgreSQL and Sequelize. In Frontend I'm working with React, Redux, CSS.
+</div>
