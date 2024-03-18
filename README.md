@@ -10,7 +10,8 @@
        <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Node Icon" width="22" height="25">
         <img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" alt="Postgre Icon" width="25" height="25">
 </div>
-### Hi there 👋
+<hr></hr>
+Hi there 👋
 <div>
   <h3>
     📌My name is Franco Tomassich and I am a full stack developer💻
@@ -22,10 +23,10 @@
 <div> 
   I’m currently working on full stack projects with the following backend tools: React, NodeJS, Express, PostgreSQL and Sequelize. In Frontend I'm working with React, Redux, CSS.
 </div>
-
+<hr></hr>
 <table style="width: 100%; margin-top: 20px;">
   <tr>
-    <td style="vertical-align: middle;">Connect with me:</td>
+    <td style="vertical-align: middle;">Connect with me</td>
     <td style="vertical-align: middle;"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn Icon" width="35" height="35"></td>
   </tr>
 </table>
