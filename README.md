@@ -11,10 +11,9 @@
         <img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" alt="Postgre Icon" width="25" height="25">
 </div>
 <hr></hr>
-Hi there 👋
 <div>
   <h3>
-    📌My name is Franco Tomassich and I am a full stack developer💻
+    📌Franco Tomassich/ Full stack developer💻
   </h3>
   <h4> 
     📊My focus is to plan and execute effective strategies in response to the real needs of the technology and communication world🌍
