@@ -13,15 +13,15 @@
 <hr></hr>
 <div>
   <h3>
-    📌Franco Tomassich</h3> 
-   <h4/> 💻Full stack developer
+    📌😃Saludos! Me da gusto recibirte en mi perfil!</h3> 
+   <h4/> 🚀Soy Desarrollador Web Full-Stack, egresado de Henry Bootcamp.
   </h4>
   <h4> 
-    📊My focus is to plan and execute effective strategies in response to the real needs of the technology and communication world🌍
+    🌍Actualmente estoy disponible para emprender nuevos desafíos en el mundo de la tecnología. Busco seguir aprendiendo, potenciar mis habilidades en un entorno profesional y así crecer profesionalmente
   </h4>
 </div>
 <div> 
-  I’m currently working on full stack projects with the following backend tools: React, NodeJS, Express, PostgreSQL and Sequelize. In Frontend I'm working with React, Redux, CSS.
+ Tengo experiencia académica en proyectos grupales e individuales full-stack con las siguientes tecnologías: React, NodeJS, Express, PostgreSQL, Sequelize, React, Redux, CSS.
 </div>
 <hr></hr>
 <table style="width: 100%; margin-top: 20px;">
