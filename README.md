@@ -13,7 +13,7 @@
 <hr></hr>
 <div>
   <h3>
-    📌😃Saludos! Me da gusto recibirte en mi perfil!</h3> 
+    😃Saludos! Me da gusto recibirte en mi perfil!</h3> 
    <h4/> 🚀Soy Desarrollador Web Full-Stack, egresado de Henry Bootcamp.
   </h4>
   <h4> 
