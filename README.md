@@ -17,7 +17,7 @@
    <h4/> 🚀Soy Desarrollador Web Full-Stack, egresado de Henry Bootcamp.
   </h4>
   <h4> 
-    🌍Actualmente estoy disponible para emprender nuevos desafíos en el mundo de la tecnología. Busco seguir aprendiendo, potenciar mis habilidades en un entorno profesional y así crecer profesionalmente
+    🌍Actualmente estoy disponible para emprender nuevos desafíos en el mundo de la tecnología. Busco seguir aprendiendo, potenciar mis habilidades en un entorno laboral y así crecer profesionalmente
   </h4>
 </div>
 <div> 
