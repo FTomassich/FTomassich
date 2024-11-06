@@ -14,14 +14,12 @@
 <div>
   <h3>
     😃Saludos! Me da gusto recibirte en mi perfil!</h3> 
-   <h4/> 🚀Soy Desarrollador Web Full-Stack, egresado de Henry Bootcamp.
+   <h4/> 🚀Soy Desarrollador Full-Stack, con orientación en Frontend y experiencia en diseño y desarrollo de interfaces atractivas, intuitivas y funcionales. 
   </h4>
-  <h4> 
-    🌍Actualmente estoy disponible para emprender nuevos desafíos en el mundo de la tecnología. Busco seguir aprendiendo, potenciar mis habilidades en un entorno laboral y así crecer profesionalmente
-  </h4>
+  
 </div>
 <div> 
- Tengo experiencia académica en proyectos grupales e individuales full-stack con las siguientes tecnologías: React, NodeJS, Express, PostgreSQL, Sequelize, React, Redux, CSS.
+Tengo experiencia académica en proyectos full-stack, tanto grupales como individuales, utilizando tecnologías de Frontend como React, Redux, CSS y Tailwind CSS. En el Backend, manejo Node.js, Express, PostgreSQL, Sequelize y MongoDB.
 </div>
 <hr></hr>
 <table style="width: 100%; margin-top: 20px;">
